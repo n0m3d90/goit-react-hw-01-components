@@ -35,7 +35,7 @@ export const StatList = styled.ul`
 
 export const StatItem = styled.li`
   padding: 10px 5px;
-  width: 50px;
+  width: 65px;
   display: flex;
   flex-direction: column;
   align-items: center;
